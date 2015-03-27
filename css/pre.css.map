@@ -1,0 +1,10 @@
+{
+	"version": 3,
+	"file": "pre.css",
+	"sources": [
+		"../app.scss"
+	],
+	"sourcesContent": [],
+	"mappings": "AAAA;EACE,AAAY",
+	"names": []
+}

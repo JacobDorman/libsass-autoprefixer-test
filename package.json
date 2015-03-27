@@ -1,0 +1,13 @@
+{
+  "name": "autoprefixer-issue",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {
+    "autoprefixer-core": "^5.1.8",
+    "grunt-postcss": "^0.3.0",
+    "grunt-sass": "^0.18.1",
+    "load-grunt-tasks": "^3.1.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
